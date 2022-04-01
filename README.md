@@ -22,7 +22,7 @@ colab으로 진행하였기 때문에 좀 더 좋은 장비가 있는 곳에서 
 ## 얻을 수 있었던 결과들
 #### 1. Augmentation의 효과
 ![image](https://user-images.githubusercontent.com/59557720/161185001-9e1431a0-4f1e-4177-8681-b2270d6ee1ba.png)
-+ transfer learning Augmentation의 효과를 직접 느껴보고 싶었습니다.   
++ transfer learning을 진행하기 전, Augmentation의 효과를 직접 느껴보고 싶었습니다.   
 + 아주 간단한 Augmentation을 진행한 데이터셋 A & 강력한 Augmentation을 진행한 데이터셋 B를 만들고 이를 성능 비교한 결과   
 + 학습의 당락 여부를 결정할 정도로 강력한 Augmentation의 영향을 경험하였습니다.   
 
